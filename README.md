@@ -1,5 +1,5 @@
 # Seg-Road
-### This is an unofficial official pytorch implementation of the following paper:
+### This is an official pytorch implementation of the following paper:
 ## Seg-Road: A Segmentation Network for Road Extraction Based on Transformer and CNN with Connectivity Structures
 A model of semantic segmentation for road
 
